@@ -1,9 +1,9 @@
 Materi pembelajaran :
 HTML
 CSS
-Javascript
+JS
 Github
-UI/UX
+UI/UX Design
 MySQL
 PHP
 Laravel
