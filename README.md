@@ -1,1 +1,1 @@
-# kampusmerdeka
+# kampus-merdeka
