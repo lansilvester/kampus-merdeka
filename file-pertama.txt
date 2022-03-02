@@ -3,3 +3,7 @@ Kita disini sudah belajar
 -HTML
 -CSS
 -Javascript
+Sekarang sedang belajar GitHub
+-Membuat akun github
+-Membuat repositori
+-Membuat dan mengedit file
